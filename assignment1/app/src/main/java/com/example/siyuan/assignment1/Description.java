@@ -23,7 +23,7 @@ public class Description extends AppCompatActivity {
         switch (intent.getStringExtra("COURSE")){
             case "BUSA 2720":
                 text1.append("Business in a Networked Economy");
-                text2.append("\tThis course introduces students to basic business concepts and processes. The course starts from a global perspective examining the Canadian business environment, ethics and entrepreneurship. After students have an understanding of the Canadian business environment, the course looks at the main areas of concern for most businesses: managing people, managing operations and information, managing marketing and managing financial issues.");
+                text2.append("\tThe course starts from a global perspective examining the Canadian business environment, ethics and entrepreneurship. After students have an understanding of the Canadian business environment, the course looks at the main areas of concern for most businesses: managing people, managing operations and information, managing marketing and managing financial issues.");
                 break;
             case "COMM 1116":
                 text1.append("Business Communications 1");
